@@ -17,3 +17,11 @@ This module will fetch data from third party service which provided details abou
  * 3
 
  Expected Output : all reports based on option
+ 
+ ## How To Run?
+ 
+ - run server.go file from server folder
+ - hit the api using url mentioned on server terminal
+ - it will ask to enter user option from (1,2 or3)
+ - server will return the response based on user option
+ 
