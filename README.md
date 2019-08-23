@@ -1,6 +1,6 @@
 # golang-reports-module
 
-This module will fetch data from third party service which provided details about Reports
+This module will fetch the data from third party service which provided details about Reports
   
   User can enter any one of the option from following.
   
@@ -16,12 +16,12 @@ This module will fetch data from third party service which provided details abou
  * 2 OR
  * 3
 
- Expected Output : all reports based on option
+ Expected Output : All reports based on option
  
  ## How To Run?
  
- - run server.go file from server folder.
- - hit the api url mentioned on server terminal.
- - it will ask to enter user option from (1,2 or 3).
- - server will return the response based on option.
+ - Run server.go file from server folder.
+ - Hit the api url mentioned on server terminal.
+ - It will ask to enter user option from (1,2 or 3).
+ - Server will return the response based on option.
  
