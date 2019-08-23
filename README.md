@@ -20,8 +20,8 @@ This module will fetch data from third party service which provided details abou
  
  ## How To Run?
  
- - run server.go file from server folder
- - hit the api using url mentioned on server terminal
- - it will ask to enter user option from (1,2 or3)
- - server will return the response based on user option
+ - run server.go file from server folder.
+ - hit the api url mentioned on server terminal.
+ - it will ask to enter user option from (1,2 or 3).
+ - server will return the response based on option.
  
