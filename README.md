@@ -9,8 +9,8 @@
 
  Expected Input :
  ****** Enter your option : ******
- 1  OR
- 2 OR
- 3
+ * 1  OR
+ * 2 OR
+ * 3
 
  Expected Output : all reports based on option
