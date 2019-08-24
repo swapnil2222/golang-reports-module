@@ -18,7 +18,7 @@ This module will fetch the data from third party service which provided details 
 
  Expected Output : All reports based on option
  
- ## How To Run and test code?
+ ## How to run and test code?
  
  - Run server.go file from server folder.
  - Hit the api url mentioned on server terminal.
