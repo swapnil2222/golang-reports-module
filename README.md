@@ -22,6 +22,6 @@ This module will fetch the data from third party service which provided details 
  
  - Run server.go file from server folder.
  - Hit the api url mentioned on server terminal.
- - It will ask to enter user option from (1,2 or 3).
+ - It will ask to enter user option on terminal (from 1,2 or 3).
  - Server will return the response based on option.
  
