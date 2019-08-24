@@ -1,10 +1,10 @@
 # golang-reports-module
 
-This module will fetch the data from third party service which provided details about Reports
+This module will fetch the data from third party service which provided details about reports
   
   User can enter any one of the option from following.
   
-   1.Show All reports
+   1.Show all reports
    
    2.Search reports by category
    
@@ -18,7 +18,7 @@ This module will fetch the data from third party service which provided details 
 
  Expected Output : All reports based on option
  
- ## How To Run?
+ ## How To Run and test code?
  
  - Run server.go file from server folder.
  - Hit the api url mentioned on server terminal.
